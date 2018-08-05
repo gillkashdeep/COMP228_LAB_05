@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqljdbc_auth">
+    <CLASSES>
+      <root url="jar://$APPLICATION_CONFIG_DIR$/jdbc-drivers/SQL Server/6.4.0/sqlserver6-win-auth.jar!/x64/sqljdbc_auth.dll" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
